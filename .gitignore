@@ -9,9 +9,13 @@
 /coverage
 
 # production
-/build
+/dist
+
+# Jest HTML coverage report
+/html-report
 
 # misc
+/.vscode
 .DS_Store
 .env.local
 .env.development.local
